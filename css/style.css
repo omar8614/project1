@@ -675,7 +675,6 @@ body {
 }
 
 .purchase-btn {
-    text-decoration: none;
     text-transform: capitalize;
     border: 1px solid rgb(214, 0, 150);
     padding: 5px 37px;
