@@ -861,7 +861,7 @@ body {
     height: 40px;
     margin-left: auto;
     color: #fff;
-    background-color: rgba(250, 151, 220, 0.6);
+    background-color: rgba(250, 151, 220, 0.4);
 }
 
 .team-icons a i {
@@ -874,7 +874,7 @@ body {
 }
 
 .team-item:hover .team-icons {
-    background-color: rgba(250, 151, 220, 0.5);
+    background-color: rgba(255, 145, 235, 0.4);
 }
 
 .team-item::after {
@@ -884,7 +884,7 @@ body {
     height: 0;
     top: 0;
     left: 0;
-    background-color: rgb(255, 155, 237);
+    background-color: rgba(255, 145, 235, 0.4);
     opacity: 0.5;
     transition: 0.5s;
     border-radius: 10px;
