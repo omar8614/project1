@@ -544,6 +544,15 @@ body {
 
 .switch1:hover, .switch2:hover {
     background-color: rgb(255, 89, 224);
+    transition: 0.1s;
+}
+
+.switch-container-div:hover .switch3 {
+    background-color: rgb(172, 172, 176);
+}
+
+.switch-parent .switch3:hover {
+    background-color: rgb(255, 89, 224);
 }
 
 /* choose [finished successfully] */
