@@ -893,7 +893,7 @@ body {
     height: 0;
     top: 0;
     left: 0;
-    background-color: rgba(255, 145, 235, 0.4);
+    background-color: rgba(255, 145, 235, 0.6);
     opacity: 0.5;
     transition: 0.5s;
     border-radius: 10px;
